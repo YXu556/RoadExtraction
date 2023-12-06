@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bridge_typ": "2", "heading": "0", "lane_numbe": "2", "lane_number": "2", "one_way_ty": "2", "paved": "1", "road_id": 21178, "road_type": "1", "origarea": 0, "origlen": 0.0077932162863819324, "partialDec": 1, "truncated": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -115.2829476, 36.177285683539161 ], [ -115.283548556409997, 36.177339193359998 ], [ -115.284653750646342, 36.177437699800002 ] ] } },
+{ "type": "Feature", "properties": { "bridge_typ": "2", "heading": "0", "lane_numbe": "1", "lane_number": "1", "one_way_ty": "2", "paved": "1", "road_id": 23108, "road_type": "1", "origarea": 0, "origlen": 0.010014910884912095, "partialDec": 1, "truncated": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -115.2864576, 36.177077709479235 ], [ -115.284919889180003, 36.177145525809998 ], [ -115.284120638860003, 36.177196271859998 ], [ -115.2829476, 36.177243609360687 ] ] } }
+]
+}

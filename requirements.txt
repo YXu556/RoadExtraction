@@ -1,0 +1,7 @@
+python (conda install python)
+pytorch (conda install pytorch torchvision cudatoolkit=10.2 -c pytorch)
+torchvision
+tqdm (conda install tqdm)
+tensorboard (conda install tensorboard)
+cv2 (conda install -c conda-forge opencv)
+pandas (conda install pandas)
