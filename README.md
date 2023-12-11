@@ -1,4 +1,4 @@
-PyTorch implementation of  ["Fine–Grained Extraction of Road Networks via Joint Learning of Connectivity and Segmentation"]()
+PyTorch implementation of  ["Fine–Grained Extraction of Road Networks via Joint Learning of Connectivity and Segmentation"](https://arxiv.org/pdf/2312.04744.pdf)
 
 <img title="" src="png/overall-arch.png" alt="" data-align="center">
 
